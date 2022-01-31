@@ -1,0 +1,9 @@
+javascript
+html
+nodejs
+react
+mongodb
+sql
+postgre sql
+maria db
+
